@@ -1,0 +1,24 @@
+# Vivado generated directories
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# Vivado logs and temporary files
+vivado*.jou
+vivado*.log
+vivado*.str
+*.backup.jou
+*.backup.log
+
+# Generated FPGA output files
+*.bit
+*.bin
+
+# OS/editor temporary files
+*~
+*.tmp
+.DS_Store
+Thumbs.db
