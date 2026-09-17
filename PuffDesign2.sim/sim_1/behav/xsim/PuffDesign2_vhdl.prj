@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../PuffDesign2.srcs/sources_1/new/ClockDivider.vhd" \
+"../../../../PuffDesign2.srcs/sources_1/new/Demux.vhd" \
+"../../../../PuffDesign2.srcs/sources_1/new/Mux.vhd" \
+"../../../../PuffDesign2.srcs/sources_1/new/PuffDesign2.vhd" \
+
+# Do not sort compile order
+nosort

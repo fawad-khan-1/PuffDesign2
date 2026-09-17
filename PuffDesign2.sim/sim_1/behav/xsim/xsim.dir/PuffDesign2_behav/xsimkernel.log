@@ -1,0 +1,7 @@
+Running: xsim.dir/PuffDesign2_behav/xsimk.exe -simmode gui -wdb PuffDesign2_behav.wdb -simrunnum 0 -socket 53505
+Design successfully loaded
+Design Loading Memory Usage: 7996 KB (Peak: 7996 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 8536 KB (Peak: 8536 KB)
+Simulation CPU Usage: 62 ms
