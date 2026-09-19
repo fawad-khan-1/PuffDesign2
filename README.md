@@ -108,14 +108,17 @@ The original report is included to preserve documentation of the project as it e
 
 ## Screenshots
 
-The original laboratory report contains screenshots captured during development in Xilinx Vivado.
+## Original Vivado Implementation
 
-These include:
+The following screenshot was captured during the original development of the project in Xilinx Vivado.
 
-- The original VHDL project and source code in Vivado
-- The elaborated ROPUF design schematic showing the interconnected FPGA components
+![Original Vivado VHDL Project](screenshots/ROPUFCode.png)
 
-These screenshots provide documentation of the original development environment and integrated hardware design.
+## Elaborated Design
+
+The Vivado elaborated-design schematic shows the integrated ROPUF architecture and the connections between the individual VHDL components.
+
+![ROPUF Elaborated Design](screenshots/ROPUFSchematic.png)
 
 ## Results
 
